@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_ALPHA_BABY_lll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","CHIMlGI")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","Sonali_Music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME","RAINBOW_API_BOT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002141133985))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002218847761))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7403621976))
+OWNER_ID = int(getenv("OWNER_ID", 6864201346))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -64,8 +64,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PURVI_SUPPORT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/PURVI_UPDATES")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TM_KARTAL")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/linkdonitehranasl")
 # ------------------------------------------------------------------------------
 # ------------------------------------------------------------------------------
 
